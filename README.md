@@ -7,3 +7,6 @@ this is demo for git &amp; github class.
 
   # Student
   Vikash Kumar
+
+ # Quote
+  The only way to do great work is to love what you do.
